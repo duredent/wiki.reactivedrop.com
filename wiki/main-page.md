@@ -2,8 +2,6 @@
 redirect_from: /
 ---
 
-# Alien Swarm: Reactive Drop Wiki
-
 <div class="main-page-grid">
 <a class="w3-button" href="campaigns"><figure><img src="/assets/UI_Campaigns.png" width="187" height="105" alt=""><figcaption>Campaigns</figcaption></figure></a>
 <a class="w3-button" href="characters"><figure><img src="/assets/UI_Characters.png" width="187" height="105" alt=""><figcaption>Characters</figcaption></figure></a>
