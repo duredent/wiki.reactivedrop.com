@@ -1,4 +1,4 @@
-remote_theme: DukeDukeEm/git-wiki-theme-reactivedrop@master
+remote_theme: ReactiveDrop/git-wiki-theme-reactivedrop@master
 # (string) Title of your wiki
 title: "Reactive Drop Wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
