@@ -125,6 +125,7 @@
 source: [reactivedrop.com](https://stats.reactivedrop.com/hoiaf_server_config.vdf)
 2024/04/26
 
+
 <h2>Challenges</h2>
 
 | Challenge | Multiplyer |
@@ -143,8 +144,11 @@ source: [reactivedrop.com](https://stats.reactivedrop.com/hoiaf_server_config.vd
 |  hellion  |  1.3 
 |  bounds  |  1.3 
 |  vanasbi  |  1.3 
+|  vanasbi (no onslaught) |  1
 |  vanasbi_blox  |  1.3 
+|  vanasbi_blox (no onslaught) |  1
 |  weapons_balancing_vanasbi  |  1.3 
+|  weapons_balancing_vanasbi (no onslaught) |  1
 |  rng_standard  |  1.5 
 |  turbo  |  1.6 
 |  darkness  |  1.6 
@@ -157,6 +161,7 @@ source: [reactivedrop.com](https://stats.reactivedrop.com/hoiaf_server_config.vd
 |  elite  |  2.5 
 |  gnome  |  2.5 
 |  super_shotgun_vanasbi  |  2.6 
+|  super_shotgun_vanasbi (no onslaught) |  2 
 |  elite_c2  |  3.5 
 |  kamikaze_jh  |  3.5 
 |  invisaliens  |  3.5 
@@ -208,5 +213,53 @@ source: [reactivedrop.com](https://stats.reactivedrop.com/hoiaf_server_config.vd
 |  turbo_asbi_wb_rng2_c2  |  3.75 
 |  asbi_weapons_balancing_rng4_c2  |  3.75 
 
+
+<h2>Infinite Missions</h2>
+
+|  Mission | Landing Bay | Marine Academy | The Gauntlet Arctic | 
+|:----:|:----:|:----:|:---:|
+| Score Multiplyer | 1.5 | 0.075 | 0.0002 
+| Minimum Score | 1 | 101 | 2000 
+| Maximum Score | 25 | 1000 | 200000 
+| Exponent | 1.35 | 1.5 | 1.05 
+| Difficulty Coefficient | 1 | 0 | 1 
+| Challenge Coefficient | 1 | 1 | 1 
+| ASBI Multiplyer | 1 | 5 | 1 
+
+
+<h2>Difficulty Coefficient</h2>
+
+|  Difficulty | Vanilla Base Points | Per Alive Marine (Vanilla) | ASBI Base Points | Per Alive Marine (ASBI) | 
+|:----:|:----:|:----:|:---:|:---:| 
+| Easy | 1 | 0 | 1 | 0 |
+| Normal | 1 | 0 | 1 | 0 |
+| Hard | 5 | 1 | 20 | 4 |
+| Insane | 10 | 1 | 50 | 4 |
+| Brutal | 15 | 1 | 80 | 4 |
+
 source: [reactivedrop.com](https://stats.reactivedrop.com/hoiaf_server_config.vdf)
 2024/04/30
+
+| How to Read Stats Page| for Difficulties:
+|:---:|:---:| 
+| v |  vanilla base points |
+| m |  per alive marine (vanilla) |
+| a |  asbi base points |
+| p |  per alive marine (asbi) |
+| | 
+| for addons: |  
+| a |  addon ID 
+| | 
+| for endless missions: | 
+| m |  score multiplier 
+| l |  minimum score 
+| c |  maximum score 
+| e |  exponent 
+| s |  difficulty coefficient 
+| g |  challenge coefficient 
+| a |  asbi multiplier 
+| | 
+| c |  challenges 
+| co |  challenges with onslaught disabled 
+| ca |  asbi challenges 
+| cd |  script to get a challenge's multiplier (squirrel) 
