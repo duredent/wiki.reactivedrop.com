@@ -125,3 +125,88 @@
 source: [reactivedrop.com](https://stats.reactivedrop.com/hoiaf_server_config.vdf)
 2024/04/26
 
+<h2>Challenges</h2>
+
+| Challenge | Multiplyer |
+|:-----:|:-----:|
+| none | 1 
+|  rd_first_person  |  1 
+|  rd_third_person  |  1 
+|  energy_weapons  |  1 
+|  weapons_balancing  |  1 
+|  good_weapons  |  1 
+|  footballspecial  |  1 
+|  campaignexecution  |  1 
+|  alienswarm_mutated  |  1.1 
+|  risk_of_rain  |  1 
+|  good_weapons_x2  |  1.2 
+|  hellion  |  1.3 
+|  bounds  |  1.3 
+|  vanasbi  |  1.3 
+|  vanasbi_blox  |  1.3 
+|  weapons_balancing_vanasbi  |  1.3 
+|  rng_standard  |  1.5 
+|  turbo  |  1.6 
+|  darkness  |  1.6 
+|  killordie  |  1.6 
+|  sharedhealth  |  1.6 
+|  rng  |  1.8 
+|  rng_pro  |  2 
+|  super_shotgun  |  2 
+|  weapon_memory  |  2 
+|  elite  |  2.5 
+|  gnome  |  2.5 
+|  super_shotgun_vanasbi  |  2.6 
+|  elite_c2  |  3.5 
+|  kamikaze_jh  |  3.5 
+|  invisaliens  |  3.5 
+|  difficulty_tier1  |  3.5 
+|  level_one  |  3.5 
+|  one_hit  |  3.5 
+|  resident_evil  |  3.5 
+|  resident_evil_fp  |  3.5 
+|  resident_evil_tp  |  3.5 
+|  carnagex5  |  3.5 
+|  difficulty_tier2  |  4.5 
+| |
+|  asbi  |  1 
+|  asbi_classic  |  1 
+|  asbi_fs  |  1 
+|  good_weapons_asbi  |  1 
+|  asbi_campaignexecution  |  1 
+|  asbi_blox  |  1 
+|  alienswarm_mutated_asbi  |  1.1 
+|  asbipro  |  1.3 
+|  asbibounds  |  1.3 
+|  asb2  |  1.3 
+|  good_weapons_asbi_x2  |  1.5 
+|  asbi_weapons_balancing_rng  |  1.5 
+|  asb2_carnage  |  1.5 
+|  asbicarnagex2  |  1.5 
+|  darkness_asbi  |  1.5 
+|  asbi_killordie  |  1.7 
+|  sharedhealth_asbi  |  1.7 
+|  super_shotgun_asbi  |  1.7 
+|  weapon_memory_asbi  |  2 
+|  asbi_weapons_balancing_rng2  |  2 
+|  asbi_elite  |  2 
+|  asbi_weapons_balancing_rng_c2  |  2 
+|  turboasbi  |  2 
+|  asbi30  |  2 
+|  asbi_hordes 	 |  2.4 
+|  onehitasbi  |  2.4 
+|  asbi_weapons_balancing_rng2_c2  |  2.4 
+|  asbi_weapons_balancing_rng3  |  2.4 
+|  asbi_weapons_balancing_rng4 	 |  2.4 
+|  turbo_asbi_wb_rng2  |  2.4 
+|  asbi_elite_c2  |  2.4 
+|  asbit1  |  2.75 
+|  kamikaze_jh_asbi  |  3.25 
+|  asbi_invisaliens  |  3.25 
+|  asbit1x2  |  3.25 
+|  asbi_weapons_balancing_rng3_c2  |  3.25 
+|  turbo_asbi_wb_rng2_c2  |  3.75 
+|  asbi_weapons_balancing_rng4_c2  |  3.75 
+
+source: [reactivedrop.com](https://stats.reactivedrop.com/hoiaf_server_config.vdf)
+2024/04/30
