@@ -34,7 +34,7 @@
 *Immune to Frontal Attacks + Knocks Marines Down*  
 | | Easy  | Normal | Hard | Insane | Brutal |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **Health** | 600 | 500 | 1400 | 2000 | 2600 | 
+| **Health** | 600 | 1000 | 1400 | 2000 | 2600 | 
 | **DAMAGE** - Stomp | 15 | 25 | 35 | 50 | 65 | 
 
 - The large bone plates on the front of a shieldbug are completely invulnerable. Attack from the side or though gaps to do damage.
