@@ -4,6 +4,35 @@
 -  Number of Marines, 
 -  Difficulty Tier 
 
+## **For Accurate Calculations** 
+First, compute the mission difficulty:
+
+| Skill Level     | Easy | Normal | Hard | Insane | Brutal |
+| --------------- | ---- | ------ | ---- | ------ | ------ |
+| Base Difficulty | 3    | 5      | 7    | 10     | 13     |
+
+If `rd_difficulty_tier` is active, add 12 times its value to the mission difficulty.
+
+If the campaign has a `DifficultyModifier` entry for this mission, add its value to the mission difficulty.
+
+Next, add a modifier based on the number of marines present in the mission. 
+-  If `rd_increase_difficulty_by_number_of_marines` is set (**Most ASBI-based modes**), the modifiers for marine counts **above 4** are applied.  
+-  If `asw_adjust_difficulty_by_number_of_marines` is set (**most other modes**), the modifiers for marine counts **below 4** are applied.
+
+| Marine Count | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
+| ------------ | --- | --- | --- | --- | --- | --- | --- | --- |
+| Modifier     | \-2 | \-2 | \-1 | \+0 | \+1 | \+2 | \+3 | \+4 |
+
+The mission difficulty has a minimum value of 2. If it would be below 2, it is increased to 2.
+
+Alien health is increased or decreased by 20% for each point of mission difficulty above or below 5 (normal).
+
+Similarly to health, alien **damage** increases or decreases by 20% for each mission difficulty above or below Normal. 
+-  In Source Engine, fractional damage carries over and there is no rounding.
+-  All attacks deal a minimum of 1 damage before calculating any resistance for the victim. 
+
+**The following values are based on 4 marines.**
+---
 ## **Drones**
 *Overwhelming Numbers + Razor-Sharp Claws + Attacks Doors.*  
 |  | Easy  | Normal | Hard | Insane | Brutal |
@@ -14,7 +43,7 @@
 | blocked while climbing | 12 | 20 | 28 | 40 | 52 | 
 
 - Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.
-- Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsfae range.
+- Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.
 - Drones can crawl through ducts and under scaffolding. It is sometimes possible to block the drones' point of egress, trapping them in a location where they are not a threat to marines.
 
 ---
@@ -25,7 +54,7 @@
 | **HEALTH** | 60.6 | 101 | 141.4 | 202 | 262.6 | 
 | **DAMAGE** - Spit | 3.6 | 6 | 8.4 | 12 | 15.6 | 
 
-- The ranger's acidic weapon travels at a constant height. Dodge roll out of the wayfor a clean escape.
+- The ranger's acidic weapon travels at a constant height. Dodge roll out of the way for a clean escape.
 - Rangers lack melee attack. The only risk in getting close to a ranger is a point-blank acid orb.
 - Rangers cannot turn while firing. Use this opportunity to flank or get into melee range.
 
@@ -37,7 +66,7 @@
 | **Health** | 600 | 1000 | 1400 | 2000 | 2600 | 
 | **DAMAGE** - Stomp | 15 | 25 | 35 | 50 | 65 | 
 
-- The large bone plates on the front of a shieldbug are completely invulnerable. Attack from the side or though gaps to do damage.
+- The large bone plates on the front of a shieldbug are completely invulnerable. Attack from the side or through gaps to do damage.
 - Shieldbugs have two stances. The "offensive" stance moves and turns faster, but reduces coverage from the bone plates. The "defensive" stance moves and turns slower in exchange for having its shields up.
 - Shieldbugs often switch to defensive stance when injured. It's often best to shoot one before attempting to flank to take advantage of its reduced movement speeds.
 
@@ -75,7 +104,7 @@
 *Infestation **DAMAGE** is special.*
 
 - Parasites reproduce with the help of human heads. If a parasite latches onto a marine, prompt medical attention is required to keep them from exploding into more parasites.
-- Electrified armor is the only non-medical way to prevent parasites from coupling to a marine's head once they attach. Fire, appliedeither to the parasite itself or the egg, will render the specimen infertile and unable to initiate the process.
+- Electrified armor is the only non-medical way to prevent parasites from coupling to a marine's head once they attach. Fire, applied either to the parasite itself or the egg, will render the specimen infertile and unable to initiate the process.
 - Infested marines report their vision turning red. If medical care is unavailable, the wise and merciful option is to put them down with friendly fire before their body can be used to scatter more parasites.
 
 ---
@@ -112,7 +141,7 @@
 | **DAMAGE** - Burst | 9 | 15 | 21 | 30 | 39 | 
 
 - The only dangerous part of a xenomite is the acid sac on its behind.
-- Xenomites will attemppt to jump onto marines and detonate themselves. Marines can refuse xenomites by killing them first.
+- Xenomites will attempt to jump onto marines and detonate themselves. Marines can refuse xenomites by killing them first.
 - Xenomites often indicate that a Harvester is nearby, but they're also known to exist independently.
 
 ---
@@ -122,17 +151,21 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **HEALTH** | 35 | 59 | 82 | 118 | 153 | 
 
-- The mender is capable of healing its fellow aliens with its stretchy, red and green tongue. Wise marines will find it difficultto stem the tide until it's dealt with.
+- The mender is capable of healing its fellow aliens with its stretchy, red and green tongue. Wise marines will find it difficult to stem the tide until it's dealt with.
 - Menders are considerably rarer than other alien species. Novice marines often panic their first time seeing one and waste precious ammunition causing quickly-healed wounds.
-- Menders are known to run away and regroup when the going gets tough. Cut themp off before they get the chance.
+- Menders are known to run away and regroup when the going gets tough. Cut them off before they get the chance.
 
 ---
 ## **Biomass**
 *Only Vulnerable to Fire + Corrosive Skin*  
 Damage Resistance: N/A  
+| | Easy  | Normal | Hard | Insane | Brutal |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **DAMAGE** - Skin | 10 | 10 | 10 | 10 | 10 | 
+*Max one damage event per second, per biomass.*
 
 - Biomass is thought to fill a role in the alien life cycle. It cannot attack directly, but it is corrosive to the touch.
-- The only way to acdtually eliminate a biomass is to burn it off. Marines have to consider whether to bring fire or simply accept some damage to cross.
+- The only way to actually eliminate a biomass is to burn it off. Marines have to consider whether to bring fire or simply accept some damage to cross.
 - Some, but not all, biomass releases pheromones that can call in a swarm when burned. Be prepared to fight when lighting unfamiliar biomass.
 
 ---
