@@ -2,124 +2,124 @@
 
 <h2>Missions</h2>
 
-|Campaign			|Mission			|Multiplyer	|
-|:-----------------------------:|:-----------------------------:|:-------------:|
-|Jacob's Rest			|Landing Bay			|1.5		|
-|Jacob's Rest			|Cargo Elevator			|1.5		|
-|Jacob's Rest			|Deima Surface Bridge		|1.25		|
-|Jacob's Rest			|Rydberg Reactor		|2		|
-|Jacob's Rest			|SynTek Residential		|2.5		|
-|Jacob's Rest			|Sewer Junction	B5		|1.25		|
-|Jacob's Rest			|Timor Station			|2.15		|
+|Campaign			|Mission			|Multiplyer	| Filename
+|:---:|:---:|:---:|:---:|
+|Jacob's Rest			|Landing Bay			|1.5		|asi-jac1-landingbay_01  
+|Jacob's Rest			|Cargo Elevator			|1.5		|asi-jac1-landingbay_02	 
+|Jacob's Rest			|Deima Surface Bridge		|1.25		|asi-jac2-deima	
+|Jacob's Rest			|Rydberg Reactor		|2		|asi-jac3-rydberg 
+|Jacob's Rest			|SynTek Residential		|2.5		|asi-jac4-residential 
+|Jacob's Rest			|Sewer Junction	B5		|1.25		|asi-jac6-sewerjunction 
+|Jacob's Rest			|Timor Station			|2.15		|asi-jac7-timorstation 
 |				|				|		|
-|Area 9800			|Landing Zone			|2.75		|
-|Area 9800			|Power Plant's Cooling Pump	|2.35		|
-|Area 9800			|Power Plant's Generator	|2.35		|
-|Area 9800			|Wastelands			|2.35		|
+|Area 9800			|Landing Zone			|2.75		|rd-area9800lz	
+|Area 9800			|Power Plant's Cooling Pump	|2.35		|rd-area9800pp1	
+|Area 9800			|Power Plant's Generator	|2.35		|rd-area9800pp2	
+|Area 9800			|Wastelands			|2.35		|rd-area9800wl	
 |				|				|		|
-|Lana's Escape			|Lana's Bridge			|2.75		|
-|Lana's Escape			|Lana's Sewer			|2.5		|
-|Lana's Escape			|Lana's Maintenance		|2.75		|
-|Lana's Escape			|Lana's Vents			|2.35		|
-|Lana's Escape			|Lana's Complex			|2.35		|
+|Lana's Escape			|Lana's Bridge			|2.75		|rd-lan1_bridge	
+|Lana's Escape			|Lana's Sewer			|2.5		|rd-lan2_sewer	
+|Lana's Escape			|Lana's Maintenance		|2.75		|rd-lan3_maintenance	
+|Lana's Escape			|Lana's Vents			|2.35		|rd-lan4_vent	
+|Lana's Escape			|Lana's Complex			|2.35		|rd-lan5_complex 
 |				|				|		|
-|Operation Cleansweep		|Storage Facility		|0.9		|
-|Operation Cleansweep		|Landing Bay 7			|1.5		|
-|Operation Cleansweep		|U.S.C. Medusa			|1.5		|
+|Operation Cleansweep		|Storage Facility		|0.9		|rd-ocs1storagefacility	
+|Operation Cleansweep		|Landing Bay 7			|1.5		|rd-ocs2landingbay7 
+|Operation Cleansweep		|U.S.C. Medusa			|1.5		|rd-ocs3uscmedusa
 |				|				|		|
-|Paranoia			|Unexpected Encounter		|1.5		|
-|Paranoia			|Hostile Places			|1.5		|
-|Paranoia			|Close Contact			|2.15		|
-|Paranoia			|High Tension			|3		|
-|Paranoia			|Crucial Point			|2.5		|
+|Paranoia			|Unexpected Encounter		|1.5		|rd-par1unexpected_encounter 
+|Paranoia			|Hostile Places			|1.5		|rd-par2hostile_places	
+|Paranoia			|Close Contact			|2.15		|rd-par3close_contact 
+|Paranoia			|High Tension			|3		|rd-par4high_tension 
+|Paranoia			|Crucial Point			|2.5		|rd-par5crucial_point 
 |				|				|		|
-|Research 7			|Transport Facility		|1.5		|
-|Research 7			|Research 7			|1.85		|
-|Research 7			|Illyn Forest			|2.5		|
-|Research 7			|Jericho Mines			|2.35		|
+|Research 7			|Transport Facility		|1.5		|rd-res1forestentrance 
+|Research 7			|Research 7			|1.85		|rd-res2research7 
+|Research 7			|Illyn Forest			|2.5		|rd-res3miningcamp 
+|Research 7			|Jericho Mines			|2.35		|rd-res4mines 
 |				|				|		|
-|Tears for Tarnor		|Insertion Point		|3.25		|
-|Tears for Tarnor		|Abandonned Maintenance Tunnels	|2		|
-|Tears for Tarnor		|Oasis Colony Spaceport		|3.25		|
+|Tears for Tarnor		|Insertion Point		|3.25		|rd-tft1desertoutpost
+|Tears for Tarnor		|Abandonned Maintenance Tunnels	|2		|rd-tft2abandonedmaintenance
+|Tears for Tarnor		|Oasis Colony Spaceport		|3.25		|rd-tft3spaceport
 |				|				|		|
-|Tilarus-5			|Midnight Port			|3		|
-|Tilarus-5			|Road to Dawn			|2.75		|
-|Tilarus-5			|Arctic Infiltration		|2.75		|
-|Tilarus-5			|Area 9800			|2.85		|
-|Tilarus-5			|Cold Catwalks			|2.75		|
-|Tilarus-5			|Yanaurus Mines			|2.75		|
-|Tilarus-5			|Forgotten Factory		|2.85		|
-|Tilarus-5			|Communication Center		|2.75		|
-|Tilarus-5			|SynTek Hospital		|3		|
+|Tilarus-5			|Midnight Port			|3		|rd-til1midnightport 
+|Tilarus-5			|Road to Dawn			|2.75		|rd-til2roadtodawn 
+|Tilarus-5			|Arctic Infiltration		|2.75		|rd-til3arcticinfiltration 
+|Tilarus-5			|Area 9800			|2.85		|rd-til4area9800 
+|Tilarus-5			|Cold Catwalks			|2.75		|rd-til5coldcatwalks 
+|Tilarus-5			|Yanaurus Mines			|2.75		|rd-til6yanaurusmine 
+|Tilarus-5			|Forgotten Factory		|2.85		|rd-til7factory 
+|Tilarus-5			|Communication Center		|2.75		|rd-til8comcenter 
+|Tilarus-5			|SynTek Hospital		|3		|rd-til9syntekhospital 
 |				|				|		|
-|Adanaxis			|New Beginning			|2.85		|
-|Adanaxis			|Anomaly			|2.85		|
-|Adanaxis			|Nexus SubNode			|2.15		|
-|Adanaxis			|Dark Path			|1.1		|
-|Adanaxis			|Fuel Junction			|1.1		|
-|Adanaxis			|Neon Carnage			|2.15		|
-|Adanaxis			|Forbidden Outpost		|1.1		|
+|Adanaxis			|New Beginning			|2.85		|rd-ad1_newbeginning 
+|Adanaxis			|Anomaly			|2.85		|rd-ad2_anomaly 
+|Adanaxis			|Nexus SubNode			|2.15		|rd-ad2_nexussubnode
+|Adanaxis			|Dark Path			|1.1		|rd-ad3_darkpath_classic
+|Adanaxis			|Fuel Junction			|1.1		|rd-ad3_fuel_junction
+|Adanaxis			|Neon Carnage			|2.15		|rd-ad3_neon_carnage
+|Adanaxis			|Forbidden Outpost		|1.1		|rd-ad4_forbidden_outpost
 |				|				|		|
-|City 17			|Trainstation			|2.35		|
-|City 17			|City Center			|2.35		|
-|City 17			|Tunnel				|2.35		|
-|City 17			|Fountain			|2.35		|
-|City 17			|Citadel			|4		|
+|City 17			|Trainstation			|2.35		|as_city17_01 
+|City 17			|City Center			|2.35		|as_city17_02 
+|City 17			|Tunnel				|2.35		|as_city17_03 
+|City 17			|Fountain			|2.35		|as_city17_04 
+|City 17			|Citadel			|4		|as_city17_05 
 |				|				|		|
-|Dead City			|Omega City			|3		|
-|Dead City			|Breaking an Entry		|2.5		|
-|Dead City			|Search and Rescue		|3.5		|
-|Dead City			|Fight and Flight		|2.85		|
+|Dead City			|Omega City			|3		|dc1-omega_city 
+|Dead City			|Breaking an Entry		|2.5		|dc2-breaking_an_entry 
+|Dead City			|Search and Rescue		|3.5		|dc3-search_and_rescue 
+|Dead City			|Fight and Flight		|2.85		|dc4-fight_and_flight 
 |				|				|		|
-|Silent Corridors		|Laboratory			|3.5		|
-|Silent Corridors		|Research Complex		|2.5		|
-|Silent Corridors		|Corridor			|1.5		|
+|Silent Corridors		|Laboratory			|3.5		|asi_sil1_laboratory 
+|Silent Corridors		|Research Complex		|2.5		|asi_sil2 
+|Silent Corridors		|Corridor			|1.5		|asi_sil4 
 |				|				|		|
-|BioGen Corporation		|Operation X5			|2.85		|
-|BioGen Corporation		|Invisible Threat		|1.85		|
-|BioGen Corporation		|BioGen Labs			|3.25		|
+|BioGen Corporation		|Operation X5			|2.85		|rd-bio1operationx5 
+|BioGen Corporation		|Invisible Threat		|1.85		|rd-bio2invisiblethreat 
+|BioGen Corporation		|BioGen Labs			|3.25		|rd-bio3biogenlabs 
 |				|				|		|
-|Nam Humanum			|Logistics Area			|1.5		|
-|Nam Humanum			|Platform XVII			|2.15		|
-|Nam Humanum			|Groundwork Lab			|2.85		|
+|Nam Humanum			|Logistics Area			|1.5		|rd-nh01_logisticsarea 
+|Nam Humanum			|Platform XVII			|2.15		|rd-nh02_platformxvii 
+|Nam Humanum			|Groundwork Lab			|2.85		|rd-nh03_groundworklabs 
 |				|				|		|
-|Accident 32			|Information Department		|2.15		|
-|Accident 32			|Powerhood			|2.75		|
-|Accident 32			|Research Center		|2		|
-|Accident 32			|Confined Facility		|2.15		|
-|Accident 32			|J5 Connector			|2.75		|
-|Accident 32			|Lab Ruins			|3		|
+|Accident 32			|Information Department		|2.15		|rd-acc1_infodep 
+|Accident 32			|Powerhood			|2.75		|rd-acc2_powerhood 
+|Accident 32			|Research Center		|2		|rd-acc3_rescenter
+|Accident 32			|Confined Facility		|2.15		|rd-acc4_confacility 
+|Accident 32			|J5 Connector			|2.75		|rd-acc5_j5connector 
+|Accident 32			|Lab Ruins			|3		|rd-acc6_labruins 
 |				|				|		|
-|Bonus Mission			|Space Port Catastrophe		|2		|
-|Bonus Mission			|Rapture			|2		|
-|Bonus Mission			|Bunker				|1.85		|
-|Bonus Mission			|Landing Bay + Cargo Elevator	|3		|
-|Bonus Mission			|Hostile Places + Close Contact	|3.25		|
-|Bonus Mission			|High Tension + Crucial Point	|3.25		|
-|Bonus Mission			|Power Plant			|3.5		|
+|Bonus Mission			|Space Port Catastrophe		|2		|rd-bonus_mission1 
+|Bonus Mission			|Rapture			|2		|rd-bonus_mission2 
+|Bonus Mission			|Bunker				|1.85		|rd-bonus_mission3 
+|Bonus Mission			|Landing Bay + Cargo Elevator	|3		|rd-bonus_mission4 
+|Bonus Mission			|Hostile Places + Close Contact	|3.25		|rd-bonus_mission5 
+|Bonus Mission			|High Tension + Crucial Point	|3.25		|rd-bonus_mission6 
+|Bonus Mission			|Power Plant			|3.5		|rd-bonus_mission7  
 |				|				|		|
-|Reduction			|Mission 1			|2.35		|
-|Reduction			|Mission 2			|1.5		|
-|Reduction			|Mission 3			|0.9		|
-|Reduction			|Mission 4			|1.5		|
-|Reduction			|Mission 5			|0.01		|
-|Reduction			|Mission 6			|2.15		|
+|Reduction			|Mission 1			|2.35		|rd-reduction1 
+|Reduction			|Mission 2			|1.5		|rd-reduction2 
+|Reduction			|Mission 3			|0.9		|rd-reduction3 
+|Reduction			|Mission 4			|1.5		|rd-reduction4 
+|Reduction			|Mission 5			|0.01		|rd-reduction5 
+|Reduction			|Mission 6			|2.15		|rd-reduction6 
 |				|				|		|
-|Edge				|Colony				|3.25		|
-|Edge				|Crash				|2.5		|
-|Edge				|Truckin			|1.25		|
-|Edge				|Relay				|2.75		|
-|Edge				|The Ship			|3.25		|
+|Edge				|Colony				|3.25		|edge1colony 
+|Edge				|Crash				|2.5		|edge2crash 
+|Edge				|Truckin			|1.25		|edge3truckin 
+|Edge				|Relay				|2.75		|edge4relay 
+|Edge				|The Ship			|3.25		|edge5theship 
 |				|				|		|
 |Bonus Mission			|Mission Queen			|2.15		|
-|Outpost 5			|Outpost 5			|2.5		|
-|Outpost 7			|Boarding			|1.85		|
-|Absolute Madness		|Madness Begins			|3.5		|
+|Outpost 5			|Outpost 5			|2.5		|outpost5 
+|Outpost 7			|Boarding			|1.85		|boarding 
+|Absolute Madness		|Madness Begins			|3.5		|absolute_madness_b4 
 |				|				|		|
-|Operation Cleansweep 3 in 1	|Operation Cleansweep 3 in 1	|3		|
+|Operation Cleansweep 3 in 1	|Operation Cleansweep 3 in 1	|3		|rd-ocs3in1 
 |				|				|		|
-|Jacobs 7 in 2			|Jacobs 1 to 4			|4		|
-|Jacobs 7 in 2			|Jacobs 5 to 7			|4		|
+|Jacobs 7 in 2			|Jacobs 1 to 4			|4		|rd_1to4jacobs 
+|Jacobs 7 in 2			|Jacobs 5 to 7			|4		|rd_5to7jacobs 
 |				|				|		|
 
 source: [reactivedrop.com](https://stats.reactivedrop.com/hoiaf_server_config.vdf)
