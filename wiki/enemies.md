@@ -50,6 +50,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Rangers**
 *Corrosive Spit + Long Range*  
+
 | &nbsp;            | Easy | Normal | Hard  | Insane | Brutal |
 | ----------------- | ---- | ------ | ----- | ------ | ------ |
 | **HEALTH**        | 60.6 | 101    | 141.4 | 202    | 262.6  |
@@ -62,6 +63,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **ShieldBug**
 *Immune to Frontal Attacks + Knocks Marines Down*  
+
 | &nbsp;             | Easy | Normal | Hard | Insane | Brutal |
 | ------------------ | ---- | ------ | ---- | ------ | ------ |
 | **Health**         | 600  | 1000   | 1400 | 2000   | 2600   |
@@ -74,6 +76,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Boomer**
 *Suicide Bomber + Explosive Projectiles + Inflates*  
+
 | &nbsp;                 | Easy    | Normal | Hard    | Insane | Brutal   |
 | ---------------------- | ------- | ------ | ------- | ------ | -------- |
 | **HEALTH**             | 480     | 800    | 1120    | 1600   | 2080     |
@@ -87,6 +90,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Buzzer**
 *Flight + Poison Blurs Vision*  
+
 | &nbsp;             | Easy | Normal | Hard | Insane | Brutal |
 | ------------------ | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**         | 18   | 30     | 42   | 60     | 78     |
@@ -111,6 +115,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Mortarbug**
 *Explosive Projectiles + Long Range + Corrosive Skin*  
+
 | &nbsp;                 | Easy | Normal | Hard | Insane | Brutal |
 | ---------------------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**             | 210  | 350    | 490  | 700    | 910    |
@@ -124,6 +129,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Harvester**
 *Explosive Spawn + Corrosive Skin*  
+
 | &nbsp;            | Easy | Normal | Hard | Insane | Brutal |
 | ----------------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**        | 120  | 200    | 280  | 400    | 520    |
@@ -136,6 +142,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Xenomite**
 *Jumping Attack + Suicide Bomber*  
+
 | &nbsp;             | Easy | Normal | Hard | Insane | Brutal |
 | ------------------ | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**         | 6    | 10     | 14   | 20     | 26     |
@@ -148,6 +155,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Mender**
 *Heals Other Aliens*  
+
 | &nbsp;     | Easy | Normal | Hard | Insane | Brutal |
 | ---------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH** | 35   | 59     | 82   | 118    | 153    |
@@ -172,6 +180,7 @@ Damage Resistance: N/A
 ---
 ## **Grub**
 *Harmless + Hatches from Sacs*  
+
 | &nbsp;     | Easy | Normal | Hard | Insane | Brutal |
 | ---------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH** | 1    | 1      | 1    | 1      | 1      |
@@ -183,6 +192,7 @@ Damage Resistance: N/A
 ---
 ## **Antlion Guard**
 *Knocks Down Marines + Charging Attack + Resistat to Damage*  
+
 | &nbsp;              | Easy | Normal | Hard | Insane | Brutal |
 | ------------------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**          | 300  | 500    | 700  | 1000   | 1300   |
