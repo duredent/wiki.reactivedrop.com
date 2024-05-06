@@ -37,7 +37,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 *Overwhelming Numbers + Razor-Sharp Claws + Attacks Doors.*  
 |  | Easy  | Normal | Hard | Insane | Brutal |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **HEALTH** - Drone | 25 | 40 | 56 | 80 | 104 | 
+| **HEALTH** - Drone | 24 | 40 | 56 | 80 | 104 | 
 | **HEALTH** - Uber | 300 | 500 | 700 | 1000 | 1300 | 
 | **DAMAGE** - slash | 9 | 15 | 21 | 30 | 39 | 
 | blocked while climbing | 12 | 20 | 28 | 40 | 52 | 
