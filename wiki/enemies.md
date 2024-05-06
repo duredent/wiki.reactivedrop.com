@@ -35,12 +35,13 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Drones**
 *Overwhelming Numbers + Razor-Sharp Claws + Attacks Doors.*  
-| | Easy  | Normal | Hard | Insane | Brutal |
-| --- | --- | --- | --- | --- | --- |
-| **HEALTH** - Drone | 25 | 40 | 56 | 80 | 104 | 
-| **HEALTH** - Uber | 300 | 500 | 700 | 1000 | 1300 | 
-| **DAMAGE** - slash | 9 | 15 | 21 | 30 | 39 | 
-| blocked while climbing | 12 | 20 | 28 | 40 | 52 | 
+
+| &nbsp;                 | Easy | Normal | Hard | Insane | Brutal |
+| ---------------------- | ---- | ------ | ---- | ------ | ------ |
+| **HEALTH** - Drone     | 25   | 40     | 56   | 80     | 104    |
+| **HEALTH** - Uber      | 300  | 500    | 700  | 1000   | 1300   |
+| **DAMAGE** - slash     | 9    | 15     | 21   | 30     | 39     |
+| blocked while climbing | 12   | 20     | 28   | 40     | 52     |
 
 - Drones only attack with their claws. Taking them out before they reach the squad will render them harmless.
 - Certain drones have been known to leap large distances. Take extra precautions when using explosive weaponry, as targets may rapidly advance into unsafe range.
