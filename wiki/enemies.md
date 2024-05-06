@@ -36,7 +36,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ## **Drones**
 *Overwhelming Numbers + Razor-Sharp Claws + Attacks Doors.*  
 
-| &nbsp;                 | Easy | Normal | Hard | Insane | Brutal |
+|                        | Easy | Normal | Hard | Insane | Brutal |
 | ---------------------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH** - Drone     | 25   | 40     | 56   | 80     | 104    |
 | **HEALTH** - Uber      | 300  | 500    | 700  | 1000   | 1300   |
@@ -50,8 +50,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Rangers**
 *Corrosive Spit + Long Range*  
-
-| &nbsp;            | Easy | Normal | Hard  | Insane | Brutal |
+|                   | Easy | Normal | Hard  | Insane | Brutal |
 | ----------------- | ---- | ------ | ----- | ------ | ------ |
 | **HEALTH**        | 60.6 | 101    | 141.4 | 202    | 262.6  |
 | **DAMAGE** - Spit | 3.6  | 6      | 8.4   | 12     | 15.6   |
@@ -63,8 +62,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **ShieldBug**
 *Immune to Frontal Attacks + Knocks Marines Down*  
-
-| &nbsp;             | Easy | Normal | Hard | Insane | Brutal |
+|                    | Easy | Normal | Hard | Insane | Brutal |
 | ------------------ | ---- | ------ | ---- | ------ | ------ |
 | **Health**         | 600  | 1000   | 1400 | 2000   | 2600   |
 | **DAMAGE** - Stomp | 15   | 25     | 35   | 50     | 65     |
@@ -76,8 +74,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Boomer**
 *Suicide Bomber + Explosive Projectiles + Inflates*  
-
-| &nbsp;                 | Easy    | Normal | Hard    | Insane | Brutal   |
+|                        | Easy    | Normal | Hard    | Insane | Brutal   |
 | ---------------------- | ------- | ------ | ------- | ------ | -------- |
 | **HEALTH**             | 480     | 800    | 1120    | 1600   | 2080     |
 | **DAMAGE** - Kick      | 2.4-3.6 | 4-6    | 5.6-8.4 | 8-12   | 9.6-14.4 |
@@ -90,8 +87,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Buzzer**
 *Flight + Poison Blurs Vision*  
-
-| &nbsp;             | Easy | Normal | Hard | Insane | Brutal |
+|                    | Easy | Normal | Hard | Insane | Brutal |
 | ------------------ | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**         | 18   | 30     | 42   | 60     | 78     |
 | **DAMAGE** - Sting | 9    | 15     | 21   | 30     | 30     |
@@ -103,7 +99,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Parasite**
 *Infests Marines + Jumping Attack + Hatches from Eggs*  
-| &nbsp;     | Easy | Normal | Hard | Insane | Brutal |
+|            | Easy | Normal | Hard | Insane | Brutal |
 | ---------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH** | 15   | 25     | 35   | 50     | 65     |
 *Infestation **DAMAGE** is special.*
@@ -115,8 +111,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Mortarbug**
 *Explosive Projectiles + Long Range + Corrosive Skin*  
-
-| &nbsp;                 | Easy | Normal | Hard | Insane | Brutal |
+|                        | Easy | Normal | Hard | Insane | Brutal |
 | ---------------------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**             | 210  | 350    | 490  | 700    | 910    |
 | **DAMAGE** - Skin      | 5    | 5      | 5    | 5      | 5      |
@@ -129,8 +124,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Harvester**
 *Explosive Spawn + Corrosive Skin*  
-
-| &nbsp;            | Easy | Normal | Hard | Insane | Brutal |
+|                   | Easy | Normal | Hard | Insane | Brutal |
 | ----------------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**        | 120  | 200    | 280  | 400    | 520    |
 | **DAMAGE** - Skin | 5    | 5      | 5    | 5      | 5      |
@@ -142,8 +136,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Xenomite**
 *Jumping Attack + Suicide Bomber*  
-
-| &nbsp;             | Easy | Normal | Hard | Insane | Brutal |
+|                    | Easy | Normal | Hard | Insane | Brutal |
 | ------------------ | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**         | 6    | 10     | 14   | 20     | 26     |
 | **DAMAGE** - Burst | 9    | 15     | 21   | 30     | 39     |
@@ -155,8 +148,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Mender**
 *Heals Other Aliens*  
-
-| &nbsp;     | Easy | Normal | Hard | Insane | Brutal |
+|            | Easy | Normal | Hard | Insane | Brutal |
 | ---------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH** | 35   | 59     | 82   | 118    | 153    |
 
@@ -168,7 +160,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ## **Biomass**
 *Only Vulnerable to Fire + Corrosive Skin*  
 Damage Resistance: N/A  
-| &nbsp;            | Easy | Normal | Hard | Insane | Brutal |
+|                   | Easy | Normal | Hard | Insane | Brutal |
 | ----------------- | ---- | ------ | ---- | ------ | ------ |
 | **DAMAGE** - Skin | 10   | 10     | 10   | 10     | 10     |
 *Max one damage event per second, per biomass.*
@@ -180,8 +172,7 @@ Damage Resistance: N/A
 ---
 ## **Grub**
 *Harmless + Hatches from Sacs*  
-
-| &nbsp;     | Easy | Normal | Hard | Insane | Brutal |
+|            | Easy | Normal | Hard | Insane | Brutal |
 | ---------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH** | 1    | 1      | 1    | 1      | 1      |
 
@@ -192,8 +183,7 @@ Damage Resistance: N/A
 ---
 ## **Antlion Guard**
 *Knocks Down Marines + Charging Attack + Resistat to Damage*  
-
-| &nbsp;              | Easy | Normal | Hard | Insane | Brutal |
+|                     | Easy | Normal | Hard | Insane | Brutal |
 | ------------------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH**          | 300  | 500    | 700  | 1000   | 1300   |
 | **DAMAGE** - Shove  | 6    | 10     | 14   | 20     | 26     |
