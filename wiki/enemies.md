@@ -107,6 +107,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 |            | Easy | Normal | Hard | Insane | Brutal |
 | ---------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH** | 15   | 25     | 35   | 50     | 65     |
+
 *Infestation **DAMAGE** is special.*
 
 - Parasites reproduce with the help of human heads. If a parasite latches onto a marine, prompt medical attention is required to keep them from exploding into more parasites.
@@ -156,6 +157,7 @@ Similarly to health, alien **damage** increases or decreases by 20% for each mis
 ---
 ## **Mender**
 *Heals Other Aliens*  
+
 |            | Easy | Normal | Hard | Insane | Brutal |
 | ---------- | ---- | ------ | ---- | ------ | ------ |
 | **HEALTH** | 35   | 59     | 82   | 118    | 153    |
@@ -172,6 +174,7 @@ Damage Resistance: N/A
 |                   | Easy | Normal | Hard | Insane | Brutal |
 | ----------------- | ---- | ------ | ---- | ------ | ------ |
 | **DAMAGE** - Skin | 10   | 10     | 10   | 10     | 10     |
+
 *Max one damage event per second, per biomass.*
 
 - Biomass is thought to fill a role in the alien life cycle. It cannot attack directly, but it is corrosive to the touch.
