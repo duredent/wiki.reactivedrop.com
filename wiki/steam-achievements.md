@@ -55,66 +55,66 @@
  | ASW_HARD_CAMPAIGN_NAME | 	 | Hard Campaign: Jacob's Rest | Complete the Jacob's Rest campaign on Hard difficulty or harder.   |  
  | ASW_INSANE_CAMPAIGN_NAME | 	 | Insane Campaign: Jacob's Rest | Complete the Jacob's Rest campaign on Insane difficulty or harder.   |  
  | ASW_IMBA_CAMPAIGN_NAME | 	 | Brutal Campaign: Jacob's Rest | Complete the Jacob's Rest campaign on Brutal difficulty.   |  
- | RD_EASY_CAMPAIGN_OCS_NAME | 	 | Easy Campaign: Operation Cleansweep | 
- | RD_NORMAL_CAMPAIGN_OCS_NAME | 	 | Normal Campaign: Operation Cleansweep | 
- | RD_HARD_CAMPAIGN_OCS_NAME | 	 | Hard Campaign: Operation Cleansweep | 
- | RD_INSANE_CAMPAIGN_OCS_NAME | 	 | Insane Campaign: Operation Cleansweep | 
- | RD_IMBA_CAMPAIGN_OCS_NAME | 	 | Brutal Campaign: Operation Cleansweep | 
- | RD_EASY_CAMPAIGN_RES_NAME | 	 | Easy Campaign: Research 7 | 
- | RD_NORMAL_CAMPAIGN_RES_NAME | 	 | Normal Campaign: Research 7 | 
- | RD_HARD_CAMPAIGN_RES_NAME | 	 | Hard Campaign: Research 7 | 
- | RD_INSANE_CAMPAIGN_RES_NAME | 	 | Insane Campaign: Research 7 | 
- | RD_IMBA_CAMPAIGN_RES_NAME | 	 | Brutal Campaign: Research 7 | 
- | RD_EASY_CAMPAIGN_AREA9800_NAME | 	 | Easy Campaign: Area 9800 | 
- | RD_NORMAL_CAMPAIGN_AREA9800_NAME | 	 | Normal Campaign: Area 9800 | 
- | RD_HARD_CAMPAIGN_AREA9800_NAME | 	 | Hard Campaign: Area 9800 | 
- | RD_INSANE_CAMPAIGN_AREA9800_NAME | 	 | Insane Campaign: Area 9800 | 
- | RD_IMBA_CAMPAIGN_AREA9800_NAME | 	 | Brutal Campaign: Area 9800 | 
- | RD_EASY_CAMPAIGN_TFT_NAME | 	 | Easy Campaign: Tears for Tarnor | 
- | RD_NORMAL_CAMPAIGN_TFT_NAME | 	 | Normal Campaign: Tears for Tarnor | 
- | RD_HARD_CAMPAIGN_TFT_NAME | 	 | Hard Campaign: Tears for Tarnor | 
- | RD_INSANE_CAMPAIGN_TFT_NAME | 	 | Insane Campaign: Tears for Tarnor | 
- | RD_IMBA_CAMPAIGN_TFT_NAME | 	 | Brutal Campaign: Tears for Tarnor | 
- | RD_EASY_CAMPAIGN_TIL_NAME | 	 | Easy Campaign: Tilarus-5 | 
- | RD_NORMAL_CAMPAIGN_TIL_NAME | 	 | Normal Campaign: Tilarus-5 | 
- | RD_HARD_CAMPAIGN_TIL_NAME | 	 | Hard Campaign: Tilarus-5 | 
- | RD_INSANE_CAMPAIGN_TIL_NAME | 	 | Insane Campaign: Tilarus-5 | 
- | RD_IMBA_CAMPAIGN_TIL_NAME | 	 | Brutal Campaign: Tilarus-5 | 
- | RD_EASY_CAMPAIGN_LAN_NAME | 	 | Easy Campaign: Lana's Escape | 
- | RD_NORMAL_CAMPAIGN_LAN_NAME | 	 | Normal Campaign: Lana's Escape | 
- | RD_HARD_CAMPAIGN_LAN_NAME | 	 | Hard Campaign: Lana's Escape | 
- | RD_INSANE_CAMPAIGN_LAN_NAME | 	 | Insane Campaign: Lana's Escape | 
- | RD_IMBA_CAMPAIGN_LAN_NAME | 	 | Brutal Campaign: Lana's Escape | 
- | RD_EASY_CAMPAIGN_PAR_NAME | 	 | Easy Campaign: Paranoia | 
- | RD_NORMAL_CAMPAIGN_PAR_NAME | 	 | Normal Campaign: Paranoia | 
- | RD_HARD_CAMPAIGN_PAR_NAME | 	 | Hard Campaign: Paranoia | 
- | RD_INSANE_CAMPAIGN_PAR_NAME | 	 | Insane Campaign: Paranoia | 
- | RD_IMBA_CAMPAIGN_PAR_NAME | 	 | Brutal Campaign: Paranoia | 
- | RD_EASY_CAMPAIGN_NH_NAME | 	 | Easy Campaign: Nam Humanum | 
- | RD_NORMAL_CAMPAIGN_NH_NAME | 	 | Normal Campaign: Nam Humanum | 
- | RD_HARD_CAMPAIGN_NH_NAME | 	 | Hard Campaign: Nam Humanum | 
- | RD_INSANE_CAMPAIGN_NH_NAME | 	 | Insane Campaign: Nam Humanum | 
- | RD_IMBA_CAMPAIGN_NH_NAME | 	 | Brutal Campaign: Nam Humanum | 
- | RD_EASY_CAMPAIGN_BIO_NAME | 	 | Easy Campaign: BioGen Corporation | 
- | RD_NORMAL_CAMPAIGN_BIO_NAME | 	 | Normal Campaign: BioGen Corporation | 
- | RD_HARD_CAMPAIGN_BIO_NAME | 	 | Hard Campaign: BioGen Corporation | 
- | RD_INSANE_CAMPAIGN_BIO_NAME | 	 | Insane Campaign: BioGen Corporation | 
- | RD_IMBA_CAMPAIGN_BIO_NAME | 	 | Brutal Campaign: BioGen Corporation | 
- | RD_EASY_CAMPAIGN_ACC_NAME | 	 | Easy Campaign: Accident 32 | 
- | RD_NORMAL_CAMPAIGN_ACC_NAME | 	 | Normal Campaign: Accident 32 | 
- | RD_HARD_CAMPAIGN_ACC_NAME | 	 | Hard Campaign: Accident 32 | 
- | RD_INSANE_CAMPAIGN_ACC_NAME | 	 | Insane Campaign: Accident 32 | 
- | RD_IMBA_CAMPAIGN_ACC_NAME | 	 | Brutal Campaign: Accident 32 | 
- | RD_EASY_CAMPAIGN_REDUCTION_NAME | 	 | Easy Campaign: Reduction | 
- | RD_NORMAL_CAMPAIGN_REDUCTION_NAME | 	 | Normal Campaign: Reduction | 
- | RD_HARD_CAMPAIGN_REDUCTION_NAME | 	 | Hard Campaign: Reduction | 
- | RD_INSANE_CAMPAIGN_REDUCTION_NAME | 	 | Insane Campaign: Reduction | 
- | RD_IMBA_CAMPAIGN_REDUCTION_NAME | 	 | Brutal Campaign: Reduction | 
- | RD_EASY_CAMPAIGN_ADA_NAME | 	 | Easy Campaign: Adanaxis | 
- | RD_NORMAL_CAMPAIGN_ADA_NAME | 	 | Normal Campaign: Adanaxis | 
- | RD_HARD_CAMPAIGN_ADA_NAME | 	 | Hard Campaign: Adanaxis | 
- | RD_INSANE_CAMPAIGN_ADA_NAME | 	 | Insane Campaign: Adanaxis | 
- | RD_IMBA_CAMPAIGN_ADA_NAME | 	 | Brutal Campaign: Adanaxis | 
+ | RD_EASY_CAMPAIGN_OCS_NAME | 	 | Easy Campaign: Operation Cleansweep | Complete the Operation Cleansweep campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_OCS_NAME | 	 | Normal Campaign: Operation Cleansweep | Complete the Operation Cleansweep campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_OCS_NAME | 	 | Hard Campaign: Operation Cleansweep | Complete the Operation Cleansweep campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_OCS_NAME | 	 | Insane Campaign: Operation Cleansweep | Complete the Operation Cleansweep campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_OCS_NAME | 	 | Brutal Campaign: Operation Cleansweep | Complete the Operation Cleansweep campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_RES_NAME | 	 | Easy Campaign: Research 7 | Complete the Research 7 campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_RES_NAME | 	 | Normal Campaign: Research 7 | Complete the Research 7 campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_RES_NAME | 	 | Hard Campaign: Research 7 | Complete the Research 7 campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_RES_NAME | 	 | Insane Campaign: Research 7 | Complete the Research 7 campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_RES_NAME | 	 | Brutal Campaign: Research 7 | Complete the Research 7 campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_AREA9800_NAME | 	 | Easy Campaign: Area 9800 | Complete the Area 9800 campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_AREA9800_NAME | 	 | Normal Campaign: Area 9800 | Complete the Area 9800 campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_AREA9800_NAME | 	 | Hard Campaign: Area 9800 | Complete the Area 9800 campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_AREA9800_NAME | 	 | Insane Campaign: Area 9800 | Complete the Area 9800 campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_AREA9800_NAME | 	 | Brutal Campaign: Area 9800 | Complete the Area 9800 campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_TFT_NAME | 	 | Easy Campaign: Tears for Tarnor | Complete the Tears for Tarnor campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_TFT_NAME | 	 | Normal Campaign: Tears for Tarnor | Complete the Tears for Tarnor campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_TFT_NAME | 	 | Hard Campaign: Tears for Tarnor | Complete the Tears for Tarnor campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_TFT_NAME | 	 | Insane Campaign: Tears for Tarnor | Complete the Tears for Tarnor campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_TFT_NAME | 	 | Brutal Campaign: Tears for Tarnor | Complete the Tears for Tarnor campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_TIL_NAME | 	 | Easy Campaign: Tilarus-5 | Complete the Tilarus-5 campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_TIL_NAME | 	 | Normal Campaign: Tilarus-5 | Complete the Tilarus-5 campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_TIL_NAME | 	 | Hard Campaign: Tilarus-5 | Complete the Tilarus-5 campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_TIL_NAME | 	 | Insane Campaign: Tilarus-5 |  Complete the Tilarus-5 campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_TIL_NAME | 	 | Brutal Campaign: Tilarus-5 | Complete the Tilarus-5 campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_LAN_NAME | 	 | Easy Campaign: Lana's Escape | Complete the Lana's Escape campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_LAN_NAME | 	 | Normal Campaign: Lana's Escape | Complete the Lana's Escape campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_LAN_NAME | 	 | Hard Campaign: Lana's Escape | Complete the Lana's Escape campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_LAN_NAME | 	 | Insane Campaign: Lana's Escape | Complete the Lana's Escape campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_LAN_NAME | 	 | Brutal Campaign: Lana's Escape | Complete the Lana's Escape campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_PAR_NAME | 	 | Easy Campaign: Paranoia | Complete the Paranoia campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_PAR_NAME | 	 | Normal Campaign: Paranoia | Complete the Paranoia campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_PAR_NAME | 	 | Hard Campaign: Paranoia | Complete the Paranoia campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_PAR_NAME | 	 | Insane Campaign: Paranoia | Complete the Paranoia campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_PAR_NAME | 	 | Brutal Campaign: Paranoia | Complete the Paranoia campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_NH_NAME | 	 | Easy Campaign: Nam Humanum | Complete the Nam Humanum campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_NH_NAME | 	 | Normal Campaign: Nam Humanum | Complete the Nam Humanum campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_NH_NAME | 	 | Hard Campaign: Nam Humanum | Complete the Nam Humanum campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_NH_NAME | 	 | Insane Campaign: Nam Humanum | Complete the Nam Humanum campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_NH_NAME | 	 | Brutal Campaign: Nam Humanum | Complete the Nam Humanum campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_BIO_NAME | 	 | Easy Campaign: BioGen Corporation | Complete the BioGen Corporation campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_BIO_NAME | 	 | Normal Campaign: BioGen Corporation | Complete the BioGen Corporation campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_BIO_NAME | 	 | Hard Campaign: BioGen Corporation | Complete the BioGen Corporation campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_BIO_NAME | 	 | Insane Campaign: BioGen Corporation | Complete the BioGen Corporation campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_BIO_NAME | 	 | Brutal Campaign: BioGen Corporation | Complete the BioGen Corporation campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_ACC_NAME | 	 | Easy Campaign: Accident 32 | Complete the Accident 32 campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_ACC_NAME | 	 | Normal Campaign: Accident 32 | Complete the Accident 32 campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_ACC_NAME | 	 | Hard Campaign: Accident 32 | Complete the Accident 32 campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_ACC_NAME | 	 | Insane Campaign: Accident 32 | Complete the Accident 32 campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_ACC_NAME | 	 | Brutal Campaign: Accident 32 | Complete the Accident 32 campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_REDUCTION_NAME | 	 | Easy Campaign: Reduction | Complete the Reduction campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_REDUCTION_NAME | 	 | Normal Campaign: Reduction | Complete the Reduction campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_REDUCTION_NAME | 	 | Hard Campaign: Reduction | Complete the Reduction campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_REDUCTION_NAME | 	 | Insane Campaign: Reduction | Complete the Reduction campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_REDUCTION_NAME | 	 | Brutal Campaign: Reduction | Complete the Reduction campaign on Brutal difficulty. | 
+ | RD_EASY_CAMPAIGN_ADA_NAME | 	 | Easy Campaign: Adanaxis | Complete the Adanaxis campaign on Easy difficulty or harder. | 
+ | RD_NORMAL_CAMPAIGN_ADA_NAME | 	 | Normal Campaign: Adanaxis |  Complete the Adanaxis campaign on Normal difficulty or harder. | 
+ | RD_HARD_CAMPAIGN_ADA_NAME | 	 | Hard Campaign: Adanaxis | Complete the Adanaxis campaign on Hard difficulty or harder. | 
+ | RD_INSANE_CAMPAIGN_ADA_NAME | 	 | Insane Campaign: Adanaxis | Complete the Adanaxis campaign on Insane difficulty or harder. | 
+ | RD_IMBA_CAMPAIGN_ADA_NAME | 	 | Brutal Campaign: Adanaxis | Complete the Adanaxis campaign on Brutal difficulty. | 
  | ASW_HARDCORE_NAME | 	 | Hardcore | Complete a mission on Brutal difficulty with Onslaught and Hardcore Friendly Fire enabled.   |  
  | ASW_KILL_GRIND_1_NAME | 	 | On the Ready Line | Kill 1,000 Swarm.   |  
  | ASW_KILL_GRIND_2_NAME | 	 | Another Bughunt | Kill 5,000 Swarm.   |  
@@ -127,73 +127,73 @@
  | ASW_SPEEDRUN_RESIDENTIAL_NAME | 	 | SynTek Residential Speedrun | Complete SynTek Residential within 2:30 on Normal difficulty or harder without any marines dying.   | 
  | ASW_SPEEDRUN_SEWER_NAME | 	 | Sewer Junction Speedrun | Complete Sewer Junction within 1:30 on Normal difficulty or harder without any marines dying.   |  
  | ASW_SPEEDRUN_TIMOR_NAME | 	 | Timor Station Speedrun | Complete Timor Station within 4:25 on Normal difficulty or harder without any marines dying.   |  
- | RD_SPEEDRUN_OCS_STORAGE_FACILITY_NAME | 	 | Storage Facility Speedrun | 
- | RD_SPEEDRUN_OCS_LANDING_BAY_7_NAME | 	 | Landing Bay 7 Speedrun | 
- | RD_SPEEDRUN_OCS_USC_MEDUSA_NAME | 	 | U.S.C. Medusa Speedrun | 
- | RD_SPEEDRUN_RES_FOREST_ENTRANCE_NAME | 	 | Transport Facility Speedrun | 
- | RD_SPEEDRUN_RES_RESEARCH_7_NAME | 	 | Research 7 Speedrun | 
- | RD_SPEEDRUN_RES_MINING_CAMP_NAME | 	 | Illyn Forest Speedrun | 
- | RD_SPEEDRUN_RES_MINES_NAME | 	 | Jericho Mines Speedrun | 
- | RD_SPEEDRUN_AREA9800_LZ_NAME | 	 | Landing Zone Speedrun | 
- | RD_SPEEDRUN_AREA9800_PP1_NAME | 	 | Cooling Pump Speedrun | 
- | RD_SPEEDRUN_AREA9800_PP2_NAME | 	 | Power Generator Speedrun | 
- | RD_SPEEDRUN_AREA9800_WL_NAME | 	 | Wastelands Speedrun | 
- | RD_SPEEDRUN_TFT_DESERT_OUTPOST_NAME | 	 | Insertion Point Speedrun | 
- | RD_SPEEDRUN_TFT_ABANDONED_MAINTENANCE_NAME | 	 | Abandoned Maintenance Tunnels Speedrun | 
- | RD_SPEEDRUN_TFT_SPACEPORT_NAME | 	 | Oasis Colony Spaceport Speedrun | 
- | RD_SPEEDRUN_TIL_MIDNIGHT_PORT_NAME | 	 | Midnight Port Speedrun | 
- | RD_SPEEDRUN_TIL_ROAD_TO_DAWN_NAME | 	 | Road to Dawn Speedrun | 
- | RD_SPEEDRUN_TIL_ARCTIC_INFILTRATION_NAME | 	 | Arctic Infiltration Speedrun | 
- | RD_SPEEDRUN_TIL_AREA9800_NAME | 	 | Area9800 Landingzone Speedrun | 
- | RD_SPEEDRUN_TIL_COLD_CATWALKS_NAME | 	 | Cold Catwalks Speedrun | 
- | RD_SPEEDRUN_TIL_YANAURUS_MINE_NAME | 	 | Yanaurus Mine Speedrun | 
- | RD_SPEEDRUN_TIL_FACTORY_NAME | 	 | The Factory Speedrun | 
- | RD_SPEEDRUN_TIL_COM_CENTER_NAME | 	 | Communication Center Speedrun | 
- | RD_SPEEDRUN_TIL_SYNTEK_HOSPITAL_NAME | 	 | SynTek Hospital Speedrun | 
- | RD_SPEEDRUN_LAN_BRIDGE_NAME | 	 | Lana's Bridge Speedrun | 
- | RD_SPEEDRUN_LAN_SEWER_NAME | 	 | Lana's Sewer Speedrun | 
- | RD_SPEEDRUN_LAN_MAINTENANCE_NAME | 	 | Lana's Maintenance Speedrun | 
- | RD_SPEEDRUN_LAN_VENT_NAME | 	 | Lana's Vents Speedrun | 
- | RD_SPEEDRUN_LAN_COMPLEX_NAME | 	 | Lana's Complex Speedrun | 
- | RD_SPEEDRUN_PAR_UNEXPECTED_ENCOUNTER_NAME | 	 | Unexpected Encounter Speedrun | 
- | RD_SPEEDRUN_PAR_HOSTILE_PLACES_NAME | 	 | Hostile Places Speedrun | 
- | RD_SPEEDRUN_PAR_CLOSE_CONTACT_NAME | 	 | Close Contact Speedrun | 
- | RD_SPEEDRUN_PAR_HIGH_TENSION_NAME | 	 | High Tension Speedrun | 
- | RD_SPEEDRUN_PAR_CRUCIAL_POINT_NAME | 	 | Crucial Point Speedrun | 
- | RD_SPEEDRUN_NH_LOGISTICS_AREA_NAME | 	 | Logistics Area Speedrun | 
- | RD_SPEEDRUN_NH_PLATFORM_XVII_NAME | 	 | Platform XVII Speedrun | 
- | RD_SPEEDRUN_NH_GROUNDWORK_LABS_NAME | 	 | Groundwork Labs Speedrun | 
- | RD_SPEEDRUN_BIO_OPERATION_X5_NAME | 	 | Operation X5 Speedrun | 
- | RD_SPEEDRUN_BIO_INVISIBLE_THREAT_NAME | 	 | Invisible Threat Speedrun | 
- | RD_SPEEDRUN_BIO_BIOGEN_LABS_NAME | 	 | BioGen Labs Speedrun | 
- | RD_SPEEDRUN_ACC_INFODEP_NAME | 	 | Information Department Speedrun | 
- | RD_SPEEDRUN_ACC_POWERHOOD_NAME | 	 | Powerhood Speedrun | 
- | RD_SPEEDRUN_ACC_RESCENTER_NAME | 	 | Research Center Speedrun | 
- | RD_SPEEDRUN_ACC_CONFACILITY_NAME | 	 | Confined Facility Speedrun | 
- | RD_SPEEDRUN_ACC_J5CONNECTOR_NAME | 	 | J5 Connector Speedrun | 
- | RD_SPEEDRUN_ACC_LABRUINS_NAME | 	 | Lab Ruins Speedrun | 
- | RD_SPEEDRUN_ACC_COMPLEX_NAME | 	 | AMBER Complex Speedrun | 
- | RD_SPEEDRUN_REDUCTION_SILENTSTATION_NAME | 	 | Silent Station Speedrun | 
- | RD_SPEEDRUN_REDUCTION_OPSANDSTORM_NAME | 	 | Operation Sandstorm Speedrun | 
- | RD_SPEEDRUN_REDUCTION_FALLENCITY_NAME | 	 | Fallen City Speedrun | 
- | RD_SPEEDRUN_REDUCTION_STOWAWAY_NAME | 	 | Stowaway Speedrun | 
- | RD_SPEEDRUN_REDUCTION_INEVITABLEESCALATION_NAME | 	 | Inevitable Escalation Speedrun | 
- | RD_SPEEDRUN_REDUCTION_NUCLEARESCORT_NAME | 	 | Nuclear Escort Speedrun | 
- | RD_SPEEDRUN_ADA_SECTOR_A9_NAME | 	 | Sector A9 Speedrun | 
- | RD_SPEEDRUN_ADA_NEXUS_SUBNODE_NAME | 	 | Nexus SubNode Speedrun | 
- | RD_SPEEDRUN_ADA_NEON_CARNAGE_NAME | 	 | Neon Carnage Speedrun | 
- | RD_SPEEDRUN_ADA_FUEL_JUNCTION_NAME | 	 | Fuel Junction Speedrun | 
- | RD_SPEEDRUN_ADA_DARK_PATH_NAME | 	 | Dark Path Speedrun | 
- | RD_SPEEDRUN_ADA_FORBIDDEN_OUTPOST_NAME | 	 | Forbidden Outpost Speedrun | 
- | RD_SPEEDRUN_ADA_NEW_BEGINNING_NAME | 	 | New Beginning Speedrun | 
- | RD_SPEEDRUN_ADA_ANOMALY_NAME | 	 | Anomaly Speedrun | 
- | RD_SPEEDRUN_BONUS_SPC_NAME |   | Space Port Catastrophe Speedrun | 
- | RD_SPEEDRUN_BONUS_RAPTURE_NAME |   | Rapture Speedrun | 
- | RD_SPEEDRUN_BONUS_BUNKER_NAME |   | Bunker Speedrun | 
- | RD_SPEEDRUN_UNSPLIT_JACOBS_1_2_NAME |   | Landing Bay + Cargo Elevator Speedrun | 
- | RD_SPEEDRUN_UNSPLIT_PARANOIA_2_3_NAME | 	 | Hostile Places + Close Contact Speedrun | 
- | RD_SPEEDRUN_UNSPLIT_PARANOIA_4_5_NAME | 	 | High Tension + Crucial Point Speedrun | 
- | RD_SPEEDRUN_UNSPLIT_AREA9800_2_3_NAME | 	 | Power Plant Speedrun | 
+ | RD_SPEEDRUN_OCS_STORAGE_FACILITY_NAME | 	 | Storage Facility Speedrun | Complete Storage Facility within 1:05 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_OCS_LANDING_BAY_7_NAME | 	 | Landing Bay 7 Speedrun | Complete Landing Bay 7 within 1:30 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_OCS_USC_MEDUSA_NAME | 	 | U.S.C. Medusa Speedrun | Complete U.S.C. Medusa within 2:45 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_RES_FOREST_ENTRANCE_NAME | 	 | Transport Facility Speedrun | Complete Transport Facility within 1:45 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_RES_RESEARCH_7_NAME | 	 | Research 7 Speedrun | Complete Research 7 within 2:30 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_RES_MINING_CAMP_NAME | 	 | Illyn Forest Speedrun | Complete Illyn Forest within 3:40 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_RES_MINES_NAME | 	 | Jericho Mines Speedrun | Complete Jericho Mines within 3:30 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_AREA9800_LZ_NAME | 	 | Landing Zone Speedrun | Complete Landing Zone within 2:35 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_AREA9800_PP1_NAME | 	 | Cooling Pump Speedrun | Complete Cooling Pump within 2:05 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_AREA9800_PP2_NAME | 	 | Power Generator Speedrun | Complete Power Generator within 2:25 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_AREA9800_WL_NAME | 	 | Wastelands Speedrun |  Complete Wastelands within 1:35 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TFT_DESERT_OUTPOST_NAME | 	 | Insertion Point Speedrun | Complete Insertion Point within 2:48 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TFT_ABANDONED_MAINTENANCE_NAME | 	 | Abandoned Maintenance Tunnels Speedrun | Complete Abandoned Maintenance Tunnels within 2:22 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TFT_SPACEPORT_NAME | 	 | Oasis Colony Spaceport Speedrun | Complete Oasis Colony Spaceport within 4:24 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_MIDNIGHT_PORT_NAME | 	 | Midnight Port Speedrun | Complete Midnight Port within 2:25 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_ROAD_TO_DAWN_NAME | 	 | Road to Dawn Speedrun | Complete Road to Dawn within 4:08 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_ARCTIC_INFILTRATION_NAME | 	 | Arctic Infiltration Speedrun | Complete Arctic Infiltration within 2:12 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_AREA9800_NAME | 	 | Area9800 Landingzone Speedrun | Complete Area9800 Landingzone within 2:28 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_COLD_CATWALKS_NAME | 	 | Cold Catwalks Speedrun | Complete Cold Catwalks within 2:10 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_YANAURUS_MINE_NAME | 	 | Yanaurus Mine Speedrun |  Complete Yanaurus Mine within 3:23 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_FACTORY_NAME | 	 | The Factory Speedrun | Complete The Factory within 3:30 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_COM_CENTER_NAME | 	 | Communication Center Speedrun | Complete Communication Center within 3:21 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_TIL_SYNTEK_HOSPITAL_NAME | 	 | SynTek Hospital Speedrun | Complete SynTek Hospital within 2:42 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_LAN_BRIDGE_NAME | 	 | Lana's Bridge Speedrun | Complete Lana's Bridge within 2:37 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_LAN_SEWER_NAME | 	 | Lana's Sewer Speedrun | Complete Lana's Sewer within 2:25 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_LAN_MAINTENANCE_NAME | 	 | Lana's Maintenance Speedrun | Complete Lana's Maintenance within 2:16 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_LAN_VENT_NAME | 	 | Lana's Vents Speedrun | Complete Lana's Vents within 2:48 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_LAN_COMPLEX_NAME | 	 | Lana's Complex Speedrun | Complete Lana's Complex within 4:48 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_PAR_UNEXPECTED_ENCOUNTER_NAME | 	 | Unexpected Encounter Speedrun | Complete Unexpected Encounter within 1:05 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_PAR_HOSTILE_PLACES_NAME | 	 | Hostile Places Speedrun | Complete Hostile Places within 1:20 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_PAR_CLOSE_CONTACT_NAME | 	 | Close Contact Speedrun | Complete Close Contact within 1:10 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_PAR_HIGH_TENSION_NAME | 	 | High Tension Speedrun | Complete High Tension within 3:50 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_PAR_CRUCIAL_POINT_NAME | 	 | Crucial Point Speedrun |  Complete Crucial Point within 3:00 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_NH_LOGISTICS_AREA_NAME | 	 | Logistics Area Speedrun | Complete Logistics Area within 1:15 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_NH_PLATFORM_XVII_NAME | 	 | Platform XVII Speedrun | Complete Platform XVII within 3:10 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_NH_GROUNDWORK_LABS_NAME | 	 | Groundwork Labs Speedrun | Complete Groundwork Labs within 2:25 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_BIO_OPERATION_X5_NAME | 	 | Operation X5 Speedrun | Complete Operation X5 within 3:35 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_BIO_INVISIBLE_THREAT_NAME | 	 | Invisible Threat Speedrun | Complete Invisible Threat within 1:20 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_BIO_BIOGEN_LABS_NAME | 	 | BioGen Labs Speedrun | Complete BioGen Labs within 4:14 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ACC_INFODEP_NAME | 	 | Information Department Speedrun | Complete Information Department within 1:42 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ACC_POWERHOOD_NAME | 	 | Powerhood Speedrun | Complete Powerhood within 2:07 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ACC_RESCENTER_NAME | 	 | Research Center Speedrun | Complete Research Center within 1:29 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ACC_CONFACILITY_NAME | 	 | Confined Facility Speedrun | Complete Confined Facility within 2:02 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ACC_J5CONNECTOR_NAME | 	 | J5 Connector Speedrun | Complete J5 Connector within 2:00 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ACC_LABRUINS_NAME | 	 | Lab Ruins Speedrun | Complete Lab Ruins within 3:33 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ACC_COMPLEX_NAME | 	 | AMBER Complex Speedrun | Complete AMBER Complex within 8:00 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_REDUCTION_SILENTSTATION_NAME | 	 | Silent Station Speedrun | Complete Silent Station within 4:50 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_REDUCTION_OPSANDSTORM_NAME | 	 | Operation Sandstorm Speedrun |  Complete Operation Sandstorm within 3:15 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_REDUCTION_FALLENCITY_NAME | 	 | Fallen City Speedrun | Complete Fallen City within 1:40 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_REDUCTION_STOWAWAY_NAME | 	 | Stowaway Speedrun | Complete Stowaway within 1:15 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_REDUCTION_INEVITABLEESCALATION_NAME | 	 | Inevitable Escalation Speedrun | Complete Inevitable Escalation within 4:30 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_REDUCTION_NUCLEARESCORT_NAME | 	 | Nuclear Escort Speedrun | Complete Nuclear Escort within 4:44 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ADA_SECTOR_A9_NAME | 	 | Sector A9 Speedrun | Complete Sector A9 within ?:?? on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ADA_NEXUS_SUBNODE_NAME | 	 | Nexus SubNode Speedrun | Complete Nexus SubNode within ?:?? on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ADA_NEON_CARNAGE_NAME | 	 | Neon Carnage Speedrun | Complete Neon Carnage within ?:?? on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ADA_FUEL_JUNCTION_NAME | 	 | Fuel Junction Speedrun | Complete Fuel Junction within ?:?? on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ADA_DARK_PATH_NAME | 	 | Dark Path Speedrun | Complete Dark Path within ?:?? on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ADA_FORBIDDEN_OUTPOST_NAME | 	 | Forbidden Outpost Speedrun | Complete Forbidden Outpost within ?:?? on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ADA_NEW_BEGINNING_NAME | 	 | New Beginning Speedrun | Complete New Beginning within ?:?? on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_ADA_ANOMALY_NAME | 	 | Anomaly Speedrun | Complete Anomaly within ?:?? on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_BONUS_SPC_NAME |   | Space Port Catastrophe Speedrun | Complete Space Port Catastrophe within 1:50 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_BONUS_RAPTURE_NAME |   | Rapture Speedrun | Complete Rapture within 2:00 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_BONUS_BUNKER_NAME |   | Bunker Speedrun | Complete Bunker within 1:30 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_UNSPLIT_JACOBS_1_2_NAME |   | Landing Bay + Cargo Elevator Speedrun | Complete Landing Bay + Cargo Elevator within 4:20 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_UNSPLIT_PARANOIA_2_3_NAME | 	 | Hostile Places + Close Contact Speedrun |  Complete Hostile Places + Close Contact within 2:30 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_UNSPLIT_PARANOIA_4_5_NAME | 	 | High Tension + Crucial Point Speedrun | Complete High Tension + Crucial Point within 7:30 on Normal difficulty or harder without any marines dying. | 
+ | RD_SPEEDRUN_UNSPLIT_AREA9800_2_3_NAME | 	 | Power Plant Speedrun | Complete Power Plant within 5:00 on Normal difficulty or harder without any marines dying. | 
  | ASW_CAMPAIGN_NO_DEATHS_NAME | 	 | Outstanding Execution: Jacob's Rest |  Complete the Jacob's Rest campaign on Normal difficulty or harder without any marines dying.   |  
  | RD_CAMPAIGN_NO_DEATHS_OCS_NAME | 	 | Outstanding Execution: Operation Cleansweep | Complete the Operation Cleansweep campaign on Normal difficulty or harder without any marines dying.   |  
  | RD_CAMPAIGN_NO_DEATHS_RES_NAME | 	 | Outstanding Execution: Research 7 |  Complete the Research 7 campaign on Normal difficulty or harder without any marines dying.   |  
