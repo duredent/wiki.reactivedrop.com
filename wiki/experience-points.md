@@ -1,6 +1,7 @@
 # Commander Experience Points
+
 | Level |	Experience from Previous |	Total Experience |	Unlocked Weapons |
-|:----:|:----:|:----:|:----:|
+| ---- | ---- | ---- | ---- |
 | 1	| N/A	| 0	| Starting Weapons*
 | 2	| 1000	| 1000	| L3A Tactical Heavy Armor
 | 3	| 1050	| 2050	| Model 35 Pump-action Shotgun
