@@ -1,3 +1,5 @@
+# Weapons
+
 ## **22A3-1 Assault Rifle**
 
 "The 22A3-1 is the standard issue combat weapon given to an Interstellar Armed Forces marine. Offering both high rate of fire, high velocity explosive tipped rounds and an underslung grenade launcher, this weapon offers significant versatility in the field, capable of taking down both small and large targets. Standard clip size is 98 rounds."  
